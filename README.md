@@ -5,7 +5,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=komalmahto">
 </a>
-<a href="https://github.com/komalmahto?tab=followers"><img src="https://img.shields.io/github/followers/komalmahto?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 
 ## 🚀 Languages and Tools:

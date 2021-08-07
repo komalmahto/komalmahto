@@ -1,6 +1,6 @@
 <h1>
 <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="80px" height="80">,I am Komal Mahto</h1>
-<h4 > I'm a third year undergrad in MCE(Mathematics And Computing)Department at Delhi Technological University,a MERN Developer and a tech enthusiast.
+<h4 > A third year undergrad in MCE(Mathematics And Computing)Department at Delhi Technological University,a MERN Developer and a tech enthusiast.
 </h4>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=komalmahto">

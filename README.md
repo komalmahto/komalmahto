@@ -1,11 +1,3 @@
-<h1>
-Hi ,I am Komal Mahto</h1>
-<h4 > A third year undergrad in MCE(Mathematics And Computing)department at Delhi Technological University,a MERN Developer and a tech enthusiast.
-</h4>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=komalmahto">
-</a>
-<br/>
 
 ## 🚀 Languages and Tools:
 

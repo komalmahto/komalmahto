@@ -4,22 +4,33 @@
 <br/>
 👨‍💻 You can check out my portfolio at https://komalmahto22.netlify.app
 
-## 🚀 Languages and Tools:
-<p align="left"> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="express" width="45" height="45"/> </a>
-</p>
+## Connect with me:<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
+[![Linkedin Badge](https://img.shields.io/badge/-komalmahto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komal-mahto-14912319b/)](https://www.linkedin.com/in/komal-mahto-14912319b/)
+[![Gmail Badge](https://img.shields.io/badge/-komalmahto.dtu@gmail.com-yellow?style=flat-square&logo=Gmail&logoColor=white&link=mailto:komalmahto.dtu@gmail.com)](mailto:komalmahto.dtu@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-komalmahto-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/snorlax_022/)](https://instagram.com/snorlax_022)
 
-<br/>
+
+## 🚀 Languages and Tools:
+
+![](https://img.shields.io/badge/-React-black?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&labelColor=black&logo=redux&logoColor=B24080)
+![](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=green)
+![](https://img.shields.io/badge/-nodeJs-black?style=for-the-badge&labelColor=black&logo=node.js&logoColor=green)
+![](https://img.shields.io/badge/-Express-black?style=for-the-badge&labelColor=black&logo=express&logoColor=green)
+![](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&labelColor=black&logo=javascript&logoColor=yellow)  
+
+![](https://img.shields.io/badge/-Postman-black?style=for-the-badge&labelColor=black&logo=postman&logoColor=orange)
+![](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&labelColor=black&logo=heroku&logoColor=purple)
+![](https://img.shields.io/badge/-SQL-black?style=for-the-badge&labelColor=black&logo=mysql&logoColor=lightblue)
+![](https://img.shields.io/badge/-SASS-black?style=for-the-badge&labelColor=black&logo=sass&logoColor=pink)
+![](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&labelColor=black&logo=firebase&logoColor=yellow)
+![](https://img.shields.io/badge/-C++-black?style=for-the-badge&labelColor=black&logo=C++&logoColor=purple)
+![](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple)  
+![](https://img.shields.io/badge/-MaterialUI-black?style=for-the-badge&labelColor=black&logo=materialui&logoColor=blue)  
+![](https://img.shields.io/badge/-Html-black?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)    
+![](https://img.shields.io/badge/-Css-black?style=for-the-badge&labelColor=black&logo=css3&logoColor=yellow)  
+
+<a href="https://github.com/komalmahto/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=komalmahto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
     <a href="https://github.com/komalmahto/github-readme-streak-stats">
@@ -29,28 +40,12 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/komalmahto/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=komalmahto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
+  <a href="https://github.com/komalmahto/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=komalmahto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   
   <a href="https://github.com/komalmahto/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalmahto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
-
-<a href="https://github.com/komalmahto/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=komalmahto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
-<p align="left">
- <a href = "https://www.linkedin.com/in/komal-mahto-14912319b/"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="30" width="40"/></a>
-<a href = "https://www.linkedin.com/in/komal-mahto-14912319b/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href = "https://www.instagram.com/snorlax_022/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-
-</p>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>

@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=komalmahto">
 </a>
 <br/>
-👨‍💻 You can check out my portfolio at https://komalmahto22.netlify.app
+
 
 ## Connect with me:<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
 [![Linkedin Badge](https://img.shields.io/badge/-komalmahto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komal-mahto-14912319b/)](https://www.linkedin.com/in/komal-mahto-14912319b/)

@@ -38,6 +38,14 @@
     </a>
 </p>
 
+
+<h1 align="center"> 🔥 Contributions: </h1>
+
+<br/>
+
+![Komal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=komalmahto)
+<br/>
+
 ## 📊 My Github Stats
 
   <a href="https://github.com/komalmahto/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=komalmahto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
